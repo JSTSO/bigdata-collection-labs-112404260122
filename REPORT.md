@@ -32,13 +32,7 @@
 
 ### 【截图 1】Device API 发现证据
 
-```text
-images/01_device_api.png
-```
-
-```markdown
 ![Device API 发现证据](images/01_device_api.png)
-```
 
 ---
 
@@ -51,13 +45,7 @@ images/01_device_api.png
 
 ### 【截图 2】Company 静态加载证据
 
-```text
-images/02_company_source.png
-```
-
-```markdown
 ![Company 静态加载证据](images/02_company_source.png)
-```
 
 ---
 
@@ -244,13 +232,7 @@ next_url = urljoin(
 
 ### 【截图 4】最终验证结果
 
-```text
-images/04_validation.png
-```
-
-```markdown
 ![最终验证结果](images/04_validation.png)
-```
 
 ---
 
